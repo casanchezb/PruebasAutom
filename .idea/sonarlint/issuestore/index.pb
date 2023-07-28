@@ -19,3 +19,13 @@ Osrc/main/java/co/com/choucair/certification/PRUEBA_1/questions/VerificarEl.java
 Rsrc/main/java/co/com/choucair/certification/PRUEBA_1/interactions/AlertHandle.java,4\5\451e1143e3885f6f935b3efc15db340a6fe4a925
 ‡
 Wsrc/test/java/co/com/choucair/certification/PRUEBA_1/stepdefinitions/Mydefinitions.java,c\f\cf0b30d9762dff9c4acce05d0c7a318205418b61
+}
+Msrc/main/java/co/com/choucair/certification/PRUEBA_1/tasks/SeleccionarCC.java,b\d\bd081fc5d9141bba88fe4e3e16ff33709b1b6686
+x
+Hsrc/main/java/co/com/choucair/certification/PRUEBA_1/tasks/Ingresar.java,1\6\162f216a7b973b21a354d7bbaed7a7325c341b85
+ƒ
+Ssrc/main/java/co/com/choucair/certification/PRUEBA_1/userinterfaces/PaginaXTTT.java,e\6\e684385c0eb2ebfd28ce0afe5a4d6a24ffdd6c12
+}
+Msrc/main/java/co/com/choucair/certification/PRUEBA_1/questions/Verificar.java,0\9\098dd0eefcb57637bc500a541a3c6c20ae939c5e
+{
+Ksrc/main/java/co/com/choucair/certification/PRUEBA_1/tasks/Seleccionar.java,c\d\cd201b6d28423f3c4365bc26d38d8e39dee2aa01
