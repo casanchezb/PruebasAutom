@@ -29,3 +29,7 @@ Ssrc/main/java/co/com/choucair/certification/PRUEBA_1/userinterfaces/PaginaXTTT.
 Msrc/main/java/co/com/choucair/certification/PRUEBA_1/questions/Verificar.java,0\9\098dd0eefcb57637bc500a541a3c6c20ae939c5e
 {
 Ksrc/main/java/co/com/choucair/certification/PRUEBA_1/tasks/Seleccionar.java,c\d\cd201b6d28423f3c4365bc26d38d8e39dee2aa01
+<
+build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
+9
+	gitignore,6\f\6f819b366cb83f2e62d7b8b23b65c2e28c01306a
